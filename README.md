@@ -1,7 +1,7 @@
-Hey, I'm Skyy!
+# Hello there, I'm Skyy!
 
-# Languages
+- I am currently working on [Core](https://core-bot.vercel.app), a Guilded bot!
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nuxt,vue)](https://skillicons.dev)
 
 **Javascript**/**TypeScript** using **Node.js**
